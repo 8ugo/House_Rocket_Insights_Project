@@ -74,6 +74,7 @@ Este projeto é um exercício do curso *Python: do zero ao Data Scientist* - [Co
 
 ## 6. Contato
 Projeto criado por [Hugo Gomes](https://www.linkedin.com/in/hugofgomes/)
+
 [LinkedIn](https://www.linkedin.com/in/hugofgomes/)
 
 Data Scientist em Formação.
