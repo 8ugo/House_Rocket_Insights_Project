@@ -10,7 +10,7 @@ A House Rocket é uma empresa (fictícia) do setor imobiliário, que tem como mo
 O CEO da House Rocket enfrenta alguns problemas, eles possuem uma grande variedade de imóveis disponíveis para a compra e eles necessitam: 
 - Uma análise apurada de todos os imóveis.
 - Precisam aproveitar todos os dados a disposição, com novos insights.
-- Querem saber quais casas devem comprar e por qual valor comprar, para revendê-las e por qual valor.
+- Querem saber quais casas devem comprar e por qual valor, para revendê-las pelo melhor preço afim de obterem lucro.
 
 ### 1.2 Data Overview
 | Attribute | Description |
