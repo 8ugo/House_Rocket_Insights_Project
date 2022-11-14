@@ -56,7 +56,7 @@ O CEO da House Rocket enfrenta alguns problemas, eles possuem uma grande varieda
 - Casas com vista para água são, em média, 30% mais caras.
 - De 21436 imóveis disponíveis em todo o dataset, o CEO pode comprar 10538 imóveis.
 
-**1.4.4. Resultado Financeiro das Recomendações:** Caso as recomendações forem implantadas, o potencial total do lucro obtido com as vendas recomendadas sera de $ 3.492.823.431,53 (Dólar).
+### 1.4 Resultado Financeiro das Recomendações:** Caso as recomendações forem implantadas, o potencial total do lucro obtido com as vendas recomendadas sera de $ 3.492.823.431,53 (Dólar).
 
 ## 2. Tecnologias Utilizadas
 - Python 3
