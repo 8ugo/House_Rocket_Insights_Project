@@ -1,5 +1,5 @@
 # House Rocket Insights Project
-![alt text](https://github.com/jlcunha/House-Rocket/blob/main/imagens/KingCounty.jpg?raw=true?raw=true)
+![alt text](https://github.com/8ugo/House_Rocket_Insights_Project/blob/main/cover-img.jpeg)
 
 Este projeto foi feito para simular um case real de uma imobiliária, utilizando a ciência de dados para resolver algumas questões de negócio da empresa, trazendo grandes resultados financeiros para a mesma.
 
@@ -64,7 +64,7 @@ O CEO da House Rocket enfrenta alguns problemas, eles possuem uma grande varieda
 - Jupyter Notebook
 
 ## 3. Arquivos do projeto
- [House Rocket Jupyter Notebook Codes](https://github.com/jlcunha/House-Rocket/blob/main/house_rocket.ipynb)
+ [House Rocket Jupyter Notebook Codes](https://github.com/8ugo/House_Rocket_Insights_Project/blob/main/House_Rocket_Project.ipynb)
  
 ## 4. Próximos passos
 - Os insights gerados neste projeto, no futuro, podem ser melhorados com o uso de modelos de regressão, para determinar com maior precisão qual imóvel pode ser comprado e por qual valor pode ser vendido.
