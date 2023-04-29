@@ -70,10 +70,7 @@ Caso as recomendações forem implantadas, o potencial total do lucro obtido com
 ## 4. Próximos passos
 - Os insights gerados neste projeto, no futuro, podem ser melhorados com o uso de modelos de regressão, para determinar com maior precisão qual imóvel pode ser comprado e por qual valor pode ser vendido.
 
-## 5. Agradecimentos
-Este projeto é um exercício do curso *Python: do zero ao Data Scientist* - [Comunidade DS](https://www.comunidadedatascience.com/comunidade-ds/).
-
-## 6. Contato
+## 5. Contato
 Projeto criado por [Hugo Gomes](https://www.linkedin.com/in/hugofgomes/)
 
 [LinkedIn](https://www.linkedin.com/in/hugofgomes/)
