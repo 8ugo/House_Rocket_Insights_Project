@@ -68,7 +68,7 @@ Caso as recomendações forem implantadas, o potencial total do lucro obtido com
  [House Rocket Jupyter Notebook Codes](https://github.com/8ugo/House_Rocket_Insights_Project/blob/main/House_Rocket_Project.ipynb)
  
 ## 4. Próximos passos
-- Os insights gerados neste projeto, no futuro, podem ser melhorados com o uso de modelos de regressão, para determinar com maior precisão qual imóvel pode ser comprado e por qual valor pode ser vendido.
+- Insights gerados nesta etapa do projeto, no futuro, podem ser melhorados com o uso de modelos de regressão, para determinar com maior precisão qual imóvel pode ser comprado e por qual valor pode ser vendido.
 
 ## 5. Contato
 Projeto criado por [Hugo Gomes](https://www.linkedin.com/in/hugofgomes/)
